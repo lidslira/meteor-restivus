@@ -1,4 +1,4 @@
-# Restivus [v0.8.12](https://github.com/kahmali/meteor-restivus/blob/devel/CHANGELOG.md#change-log) [![Build Status](https://travis-ci.org/kahmali/meteor-restivus.svg)](https://travis-ci.org/kahmali/meteor-restivus)
+# Restivus [v0.8.13](https://github.com/kahmali/meteor-restivus/blob/devel/CHANGELOG.md#change-log) [![Build Status](https://travis-ci.org/kahmali/meteor-restivus.svg)](https://travis-ci.org/kahmali/meteor-restivus)
 
 #### REST APIs for the Best of Us!
 
@@ -68,7 +68,7 @@ and is built on top of [Simple JSON Routes][json-routes] to provide:
 
 You can install Restivus using Meteor's package manager:
 ```bash
-> meteor add nimble:restivus
+> meteor add anaribeiro:restivus
 ```
 
 ## Quick Start
